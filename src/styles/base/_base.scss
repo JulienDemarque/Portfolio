@@ -1,9 +1,12 @@
 body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  font-size: $l-size;
 }
 
 button {
   cursor: pointer;
+}
+
+.container {
+  padding-top: 20px;
 }

@@ -1,0 +1,9 @@
+.welcome__text {
+  font-weight: 200;
+}
+
+@media #{$small-and-down} {
+  .welcome__text {
+    font-size: 28px;
+  }
+}
