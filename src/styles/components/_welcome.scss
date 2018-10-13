@@ -4,6 +4,6 @@
 
 @media #{$small-and-down} {
   .welcome__text {
-    font-size: 28px;
+    font-size: $l-size;
   }
 }

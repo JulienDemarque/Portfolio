@@ -11,15 +11,16 @@ const MyNavbar = () => (
         </NavLink>
       </li>
       <li>
-        <NavLink to="/skills" activeClassName="active">
-          Skills
-        </NavLink>
-      </li>
-      <li>
         <NavLink to="/projects" activeClassName="active">
           Projects
         </NavLink>
       </li>
+      <li>
+        <NavLink to="/skills" activeClassName="active">
+          Skills
+        </NavLink>
+      </li>
+
       <li>
         <NavLink to="/about" activeClassName="active">
           About me

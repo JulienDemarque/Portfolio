@@ -3,3 +3,9 @@
 $small-screen: 600px !default;
 
 $small-and-down: "only screen and (max-width : #{$small-screen})" !default;
+
+$xl-size: 32px;
+$l-size: 28px;
+$m-size: 22px;
+$s-size: 18px;
+$xs-size: 15px;
