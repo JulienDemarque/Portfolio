@@ -3,3 +3,9 @@
 
 # misc
 .DS_Store
+
+#generated files
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
