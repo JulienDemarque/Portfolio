@@ -11,7 +11,6 @@ class Projects extends React.Component {
 
   handleFilter = event => {
     this.setState({ filterKeyword: event.target.innerText });
-    console.log(this.state.filterKeyword);
   };
 
   render() {
