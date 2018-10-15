@@ -4,6 +4,7 @@ import MyNavbar from "./Navbar";
 import Welcome from "./Welcome";
 import Skills from "./Skills";
 import About from "./About";
+import Blog from "./Blog";
 import Contact from "./Contact";
 import Projects from "./Projects";
 
@@ -16,6 +17,7 @@ const Portfolio = () => (
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/skills" component={Skills} />
         <Route exact path="/about" component={About} />
+        <Route exact path="/blog" component={Blog} />
         <Route exact path="/contact" component={Contact} />
       </Switch>
     </div>

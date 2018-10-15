@@ -1,0 +1,35 @@
+.blog__container p {
+  font-size: $m-size;
+}
+
+.blog__medium__container {
+  border: 1px gray solid;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.blog__medium__text {
+  min-width: 250px;
+  flex: 1 1 250px;
+}
+
+.blog__medium__icon-container {
+  font-size: $xl-size;
+  margin-right: 20px;
+}
+
+.blog__medium__container .blog__medium__title {
+  font-size: $l-size;
+  margin: 0;
+}
+
+.blog__medium__container .blog__medium__subtitle {
+  font-size: $s-size;
+  margin: 0;
+  font-weight: bold;
+}
+
+.blog__medium__container .blog__medium__preview {
+  font-size: $s-size;
+}
