@@ -11,7 +11,7 @@ import {
 
 const MyNavbar = () => (
   <div>
-    <Navbar right>
+    <Navbar options={{ closeOnClick: true }} right>
       <li>
         <NavLink to="/" exact activeClassName="active">
           <Icon>home</Icon>

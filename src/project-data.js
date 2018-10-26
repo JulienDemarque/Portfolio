@@ -10,8 +10,7 @@ const projectData = [
   {
     url:
       "https://chrome.google.com/webstore/detail/hacker-news/hknoigmfpgfdkccnkbfbjfnocoegoefe?pli=1&authuser=1",
-    code:
-      "https://github.com/JulienDemarque/hacker-news-reader/commits/filter-version",
+    code: "https://github.com/gitconnected/hacker-news-reader",
     img: "img/cards/HNClone.png",
     title: "Hacker News Clone",
     tags: ["react", "redux", "react-router", "reselect"],
@@ -49,22 +48,7 @@ const projectData = [
     tags: ["node", "express", "jquery", "d3.js", "mongodb"],
     category: "all various"
   },
-  {
-    url: "https://calm-woodland-37861.herokuapp.com/",
-    code: "",
-    img: "img/cards/YelpCamp.png",
-    title: "YelpCamp",
-    tags: ["node", "express", "mongodb", "Colt Steele course"],
-    category: "all courses"
-  },
-  {
-    url: "https://keyword-search-articles.herokuapp.com/",
-    code: "",
-    img: "img/cards/NYTimesSearch.png",
-    title: "The NY Times Search",
-    tags: [],
-    category: "all courses"
-  },
+
   {
     url: "https://codepen.io/JulienDemarque/full/jmoGMO/",
     code: "",
@@ -97,14 +81,7 @@ const projectData = [
     tags: ["vanillajs"],
     category: "all various"
   },
-  {
-    url: "https://codepen.io/JulienDemarque/full/WjqbrM/",
-    code: "",
-    img: "img/cards/ColorGame.png",
-    title: "Color Game",
-    tags: ["vanillajs"],
-    category: "all various"
-  },
+
   {
     url: "https://codepen.io/JulienDemarque/full/qmmeyZ/",
     code: "",
@@ -122,8 +99,8 @@ const projectData = [
     category: "all various"
   },
   {
-    url: "https://codepen.io/JulienDemarque/full/qmmRJe/",
-    code: "",
+    url: "https://codepen.io/JulienDemarque/full/pxgWgE/",
+    code: "https://codepen.io/JulienDemarque/pen/pxgWgE",
     img: "img/cards/DrumMachine.png",
     title: "Drum Machine",
     tags: ["react"],
@@ -160,6 +137,30 @@ const projectData = [
     title: "Simon Game",
     tags: ["vanillajs"],
     category: "all various"
+  },
+  {
+    url: "https://calm-woodland-37861.herokuapp.com/",
+    code: "",
+    img: "img/cards/YelpCamp.png",
+    title: "YelpCamp",
+    tags: ["node", "express", "mongodb", "Colt Steele course"],
+    category: "all courses"
+  },
+  {
+    url: "https://keyword-search-articles.herokuapp.com/",
+    code: "",
+    img: "img/cards/NYTimesSearch.png",
+    title: "The NY Times Search",
+    tags: [],
+    category: "all courses"
+  },
+  {
+    url: "https://codepen.io/JulienDemarque/full/WjqbrM/",
+    code: "",
+    img: "img/cards/ColorGame.png",
+    title: "Color Game",
+    tags: ["vanillajs", "Colt Steele course"],
+    category: "all courses"
   }
 ];
 
