@@ -33,13 +33,13 @@ class Projects extends React.Component {
             onClick={this.handleFilter}
             className="waves-effect waves-teal btn-flat"
           >
-            Courses
+            Contributions
           </button>
           <button
             onClick={this.handleFilter}
             className="waves-effect waves-teal btn-flat"
           >
-            Contributions
+            Hackathon
           </button>
           <button
             onClick={this.handleFilter}

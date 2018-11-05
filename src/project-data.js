@@ -17,6 +17,22 @@ const projectData = [
     category: "all contributions react"
   },
   {
+    url: "https://chord-progression-ear-training.herokuapp.com/chordapp",
+    code: "https://github.com/JulienDemarque/EarTrainingApp",
+    img: "img/cards/ChordTrainer.png",
+    title: "Chord Progression Ear Trainer",
+    tags: ["node", "express", "jquery"],
+    category: "all various"
+  },
+  {
+    url: "https://chord-progression-ear-training.herokuapp.com/chordnote",
+    code: "https://github.com/JulienDemarque/EarTrainingApp",
+    img: "img/cards/NoteTrainer.png",
+    title: "Chord & Note Functional Ear Trainer",
+    tags: ["node", "express", "jquery", "d3.js", "mongodb"],
+    category: "all various"
+  },
+  {
     url: "https://www.lightinbabylon.com/",
     code: "",
     img: "img/cards/LightinBabylon.png",
@@ -33,20 +49,13 @@ const projectData = [
     category: "all various"
   },
   {
-    url: "https://chord-progression-ear-training.herokuapp.com/chordapp",
-    code: "https://github.com/JulienDemarque/EarTrainingApp",
-    img: "img/cards/ChordTrainer.png",
-    title: "Chord Progression Ear Trainer",
-    tags: ["node", "express", "jquery"],
-    category: "all various"
-  },
-  {
-    url: "https://chord-progression-ear-training.herokuapp.com/chordnote",
-    code: "https://github.com/JulienDemarque/EarTrainingApp",
-    img: "img/cards/NoteTrainer.png",
-    title: "Chord & Note Functional Ear Trainer",
-    tags: ["node", "express", "jquery", "d3.js", "mongodb"],
-    category: "all various"
+    url: "https://zealous-curran-ccefa0.netlify.com/",
+    code:
+      "https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher",
+    img: "img/cards/HackathonJAMstack.png",
+    title: "Video-Audio Matcher",
+    tags: ["react-static", "JAMstack", "apollographQL", "clarifai", "hasura"],
+    category: "all hackathon"
   },
 
   {
@@ -137,7 +146,11 @@ const projectData = [
     title: "Simon Game",
     tags: ["vanillajs"],
     category: "all various"
-  },
+  }
+];
+
+// moving courses project out:
+/* const courses = [
   {
     url: "https://calm-woodland-37861.herokuapp.com/",
     code: "",
@@ -162,6 +175,6 @@ const projectData = [
     tags: ["vanillajs", "Colt Steele course"],
     category: "all courses"
   }
-];
+]; */
 
 export default projectData;
