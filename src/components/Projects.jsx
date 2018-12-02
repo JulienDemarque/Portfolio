@@ -45,6 +45,12 @@ class Projects extends React.Component {
             onClick={this.handleFilter}
             className="waves-effect waves-teal btn-flat"
           >
+            npm Package
+          </button>
+          <button
+            onClick={this.handleFilter}
+            className="waves-effect waves-teal btn-flat"
+          >
             Various
           </button>
         </div>

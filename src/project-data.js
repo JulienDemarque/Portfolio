@@ -8,6 +8,23 @@ const projectData = [
     category: "all react"
   },
   {
+    url: "https://distracted-shaw-6cfb30.netlify.com/",
+    code: "https://github.com/JulienDemarque/react-happy-video",
+    img: "img/cards/NpmLogo.png",
+    title: "react-happy-video",
+    tags: ["npm package", "react"],
+    category: "all react npm Package"
+  },
+  {
+    url: "https://zealous-curran-ccefa0.netlify.com/",
+    code:
+      "https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher",
+    img: "img/cards/HackathonJAMstack.png",
+    title: "Video-Audio Matcher",
+    tags: ["WINNER", "react-static", "JAMstack", "apollographQL", "clarifai"],
+    category: "all hackathon"
+  },
+  {
     url:
       "https://chrome.google.com/webstore/detail/hacker-news/hknoigmfpgfdkccnkbfbjfnocoegoefe?pli=1&authuser=1",
     code: "https://github.com/gitconnected/hacker-news-reader",
@@ -48,15 +65,7 @@ const projectData = [
     tags: ["jquery"],
     category: "all various"
   },
-  {
-    url: "https://zealous-curran-ccefa0.netlify.com/",
-    code:
-      "https://github.com/JulienDemarque/JAMstack-hackathon-video-audio-matcher",
-    img: "img/cards/HackathonJAMstack.png",
-    title: "Video-Audio Matcher",
-    tags: ["react-static", "JAMstack", "apollographQL", "clarifai", "hasura"],
-    category: "all hackathon"
-  },
+
   {
     url: "https://happypanda-url-shortener.herokuapp.com/",
     code: "https://github.com/JulienDemarque/url-shortener",
