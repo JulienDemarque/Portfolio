@@ -11,8 +11,9 @@ const Skills = () => (
       <em>d3.js</em>, I am also getting my hands on <em>Webpack</em>,{" "}
       <em>Babel</em>, <em>Apollo GraphQL</em>, <em>React-Static</em>,{" "}
       <em>Jest</em> and more... <br />
-      I like to collaborate with other developers. I won the Hacktoberfest
-      T-shirt and participated to the online JAMstack hackathon.
+      I like to collaborate with other developers, to learn and to teach to
+      others what I have learnt. My team won the first prize and the Clarifai
+      API sponsor prize at the online JAMstack hackathon 2018.
     </p>
   </div>
 );

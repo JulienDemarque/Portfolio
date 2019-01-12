@@ -8,6 +8,14 @@ const projectData = [
     category: "all react"
   },
   {
+    url: "https://priceless-stallman-0892b7.netlify.com/",
+    code: "https://github.com/JulienDemarque/lawzen-platform-client",
+    img: "img/cards/LawZen.png",
+    title: "LawZen platform",
+    tags: ["fullstack MERN", "bulma", "redux", "mongoose"],
+    category: "all react"
+  },
+  {
     url: "https://distracted-shaw-6cfb30.netlify.com/",
     code: "https://github.com/JulienDemarque/react-happy-video",
     img: "img/cards/NpmLogo.png",
